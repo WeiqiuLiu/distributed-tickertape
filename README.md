@@ -7,7 +7,7 @@ Distributed Tickertape system based on RPC and lamport logic clock</br>
 ### server
 ./ticker-server [unique server id (int)] [port number] [hostname] [all other servers id]
 ### client
-./ticker-client localhost [server id you want to send] [trades (string)]
+./ticker-client [servername] [server id you want to send] [trades (string)]
 
 
 ## Reference
