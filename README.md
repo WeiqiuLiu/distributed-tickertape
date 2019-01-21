@@ -1,5 +1,5 @@
 ## Title
-Distributed Tickertap system based on RPC and lamport logic clock</br>
+Distributed Tickertape system based on RPC and lamport logic clock</br>
 
 基于RPC的分布式股票交易系统，实现lamport逻辑时钟判决分布式系统中事件发生顺序，以确保客户端按相同顺序接受交易信息。
 
